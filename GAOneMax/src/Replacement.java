@@ -1,5 +1,5 @@
 /*
- # GAOneMax - Tool to solve the MaxOne problem
+ # GAOneMax - Tool to solve the OneMax problem
  # 
  # Created by Julian Camilo Castañeda Alonso and David Estteban Prieto Mendoza
  #
